@@ -1,0 +1,3 @@
+/home/sofia/sqlite/build/CMakeFiles/rebuild_cache.dir
+/home/sofia/sqlite/build/CMakeFiles/music_sqlite.dir
+/home/sofia/sqlite/build/CMakeFiles/edit_cache.dir
